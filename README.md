@@ -14,4 +14,6 @@ This is my first time using the SpaceX api with TypeScript and React and I am ve
 I have learned so much from this App, about API calls, a lot about component styling, JavaScript libraries, Redux, React and TypeScript, 
 plus many other things, mainly at the moments I found myself having difficulties. 
 
-There is still a long road full of improvements I would do to this app, but much more in the path of the learning!
+There is still many improvements I could do in this app, and I am very excited to try them! 
+
+But for now, there is still a long road in the path of the learning!
