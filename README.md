@@ -8,3 +8,6 @@ This is my first time using the SpaceX api with TypeScript and React and I am ve
 
 # Run on port 19006
 2. After that, you must run the following command: yarn start or expo start
+
+![image](https://user-images.githubusercontent.com/85197053/183550654-99370747-13ea-4e1a-9a86-7dc28680b668.png)
+
