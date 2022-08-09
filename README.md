@@ -1,5 +1,5 @@
 # react-native-space-x
-This is my first time using the SpaceX api with TypeScript and React and I am very happy how things turned out!
+This is my first time using the SpaceX api with TypeScript and React and I am very happy how things turned out! 
 
 ![image](https://user-images.githubusercontent.com/85197053/183550397-2ca0518e-fdf4-4231-a911-a6812b668f9f.png)
 
@@ -11,3 +11,7 @@ This is my first time using the SpaceX api with TypeScript and React and I am ve
 
 ![image](https://user-images.githubusercontent.com/85197053/183550654-99370747-13ea-4e1a-9a86-7dc28680b668.png)
 
+I have learned so much from this App, about API calls, a lot about component styling, JavaScript libraries, Redux, React and TypeScript, 
+plus many other things, mainly at the moments I found myself having difficulties. 
+
+There is still a long road full of improvements I would do to this app, but much more in the path of the learning!
