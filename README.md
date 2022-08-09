@@ -11,7 +11,7 @@ This is my first time using the SpaceX api with TypeScript and React and I am ve
 
 ![image](https://user-images.githubusercontent.com/85197053/183550654-99370747-13ea-4e1a-9a86-7dc28680b668.png)
 
-I have learned so much from this App, about API calls, a lot about component styling, JavaScript libraries, Redux, React and TypeScript, 
+I have learned so much from this App, a lot about component styling, API calls, JavaScript libraries, Redux, React and TypeScript, 
 plus many other things, mainly at the moments I found myself having difficulties. 
 
 There is still many improvements I could do in this app, and I am very excited to try them! 
