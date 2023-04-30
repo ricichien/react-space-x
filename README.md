@@ -1,16 +1,23 @@
 # react-space-x
 
-This is my first time using the SpaceX api and my first time creating a project with React and TypeScript (instead of JS)
+Using the SpaceX API to generate a list of Rocket Launches (instead of JS)
 
 ![image](https://user-images.githubusercontent.com/85197053/183550397-2ca0518e-fdf4-4231-a911-a6812b668f9f.png)
 
 # Install Dependencies
 
-1. To run the App you much run the commmand yarn
+1. To run the App you must:
 
-# Run on port 19006
+```sh
+$ yarn
+```
+# Runs on port 19006
 
-2. After that, you must run the following command: yarn start
+2. After that, to start the server, run:
+```sh
+$ yarn run
+$ expo start web
+```
 
 ![image](https://user-images.githubusercontent.com/85197053/183550654-99370747-13ea-4e1a-9a86-7dc28680b668.png)
 
