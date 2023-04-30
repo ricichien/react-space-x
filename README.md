@@ -1,6 +1,6 @@
 # react-space-x
 
-Using the SpaceX API to generate a list of Rocket Launches (instead of JS)
+Builded using the SpaceX API
 
 ![image](https://user-images.githubusercontent.com/85197053/183550397-2ca0518e-fdf4-4231-a911-a6812b668f9f.png)
 
